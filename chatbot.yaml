@@ -12,9 +12,9 @@ tests:
 nlp:
   intentNoMatchThresholds:
     phrases: 0.2
-    patterns: 0.2
+    patterns: 0.3
     
 injector:
-  botName: валера
+  botName: захар
     
 
